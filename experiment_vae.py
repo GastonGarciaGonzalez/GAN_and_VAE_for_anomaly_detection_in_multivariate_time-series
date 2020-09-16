@@ -2,7 +2,11 @@
 """
 Created on Thu Aug  6 19:31:47 2020
 
-@author: usuario
+@author: Gastón García González (gastong@fing.edu.uy)
+
+Code carried out within the framework of the author's master's thesis.
+
+
 """
 
 import tensorflow as tf
