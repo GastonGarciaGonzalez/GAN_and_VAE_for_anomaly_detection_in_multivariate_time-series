@@ -1,0 +1,17 @@
+{
+"data": "swat",
+"data_load_from": ".//data//train//SWaT_Dataset_Normal_v0.csv",
+"seq_length": 42,
+"seq_step": 1,
+"aggregate": 100,
+"hidden_units_e": 100,
+"hidden_units_d": 100,
+"learning_rate": 1e-5,
+"decay_step": 480000000,
+"decay_rate": 0.96,
+"latent_dim": 1,
+"variables": 51,
+"batch_size": 42,
+"num_epochs": 2000,
+"scaler_type": "minmax"
+}
